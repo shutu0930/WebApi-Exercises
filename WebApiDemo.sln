@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDemo", "WebApiDemo\WebApiDemo.csproj", "{354BD890-CF91-4A8C-9A5E-A0ED3A4F166D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsTestWebApplication", "CorsTestWebApplication\CorsTestWebApplication.csproj", "{D0836224-546F-43F4-8877-3AE5A9B2E71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354BD890-CF91-4A8C-9A5E-A0ED3A4F166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354BD890-CF91-4A8C-9A5E-A0ED3A4F166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354BD890-CF91-4A8C-9A5E-A0ED3A4F166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354BD890-CF91-4A8C-9A5E-A0ED3A4F166D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0836224-546F-43F4-8877-3AE5A9B2E71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0836224-546F-43F4-8877-3AE5A9B2E71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0836224-546F-43F4-8877-3AE5A9B2E71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0836224-546F-43F4-8877-3AE5A9B2E71A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A563EA-5659-4D15-906A-23EDA82F9823}
+	EndGlobalSection
+EndGlobal
